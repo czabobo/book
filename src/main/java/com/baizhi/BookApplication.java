@@ -11,6 +11,7 @@ public class BookApplication {
         System.out.println("111");
 System.out.println("222");
 System.out.println("3");
+        System.out.println("args = " + args);
     }
 
 }
